@@ -29,3 +29,6 @@
   <img width="460" height="300" src="https://github.com/emrekndl/DesktopSetups/blob/master/2020-06-2917-26-07.png">
   <img width="460" height="300" src="https://github.com/emrekndl/DesktopSetups/blob/master/2020-07-1715-48-19.png">
 </p>
+<p align="left">
+  <img width="460" height="300" src="https://github.com/emrekndl/DesktopSetups/blob/master/2020-07-23-15-24-10.png">
+</p>
