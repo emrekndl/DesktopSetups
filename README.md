@@ -1,6 +1,8 @@
 ## My Arch Linux Desktop Setups
 <!--width="460" height="300" -->
 <p align="center">
+  <img  src="images/Ekran Görüntüsü - 2022-05-03 16-35-50.png">
+  
   <img  src="images/2018-05-25_14-24-22.png">
   <img  src="images/2018-10-30_22-26-10.png">
 
