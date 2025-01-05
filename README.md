@@ -13,4 +13,6 @@
   <img src="images/2020-07-23-15-24-10.png">
 
   <img src="images/2024-06-22-16-31-44.png">
+
+  <img src="https://github.com/emrekndl/dotfiles/blob/main/nvim/nvim-screenshot.png">
 </p>
